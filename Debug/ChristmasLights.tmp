@@ -1,0 +1,36 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>c:\users\reeve\Documents\Atmel Studio\7.0\ChristmasLights\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\reeve\Documents\Atmel Studio\7.0\ChristmasLights\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\reeve\Documents\Atmel Studio\7.0\ChristmasLights\Debug\ChristmasLights.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>ChristmasLights.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>ChristmasLights.map</FILE>
+  <FILE>ChristmasLights.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <setup><FILE>c:\users\reeve\Documents\Atmel Studio\7.0\ChristmasLights\main.asm</FILE><LINE>7</LINE></setup>
+  <loop><FILE>c:\users\reeve\Documents\Atmel Studio\7.0\ChristmasLights\main.asm</FILE><LINE>21</LINE></loop>
+  <other><FILE>c:\users\reeve\Documents\Atmel Studio\7.0\ChristmasLights\main.asm</FILE><LINE>29</LINE></other>
+  <otherOne><FILE>c:\users\reeve\Documents\Atmel Studio\7.0\ChristmasLights\main.asm</FILE><LINE>34</LINE></otherOne>
+  <endState><FILE>c:\users\reeve\Documents\Atmel Studio\7.0\ChristmasLights\main.asm</FILE><LINE>39</LINE></endState>
+  <modeOne><FILE>c:\users\reeve\Documents\Atmel Studio\7.0\ChristmasLights\main.asm</FILE><LINE>62</LINE></modeOne>
+  <modeTwo><FILE>c:\users\reeve\Documents\Atmel Studio\7.0\ChristmasLights\main.asm</FILE><LINE>72</LINE></modeTwo>
+  <modeThree><FILE>c:\users\reeve\Documents\Atmel Studio\7.0\ChristmasLights\main.asm</FILE><LINE>88</LINE></modeThree>
+  <delay><FILE>c:\users\reeve\Documents\Atmel Studio\7.0\ChristmasLights\main.asm</FILE><LINE>98</LINE></delay>
+  <L1><FILE>c:\users\reeve\Documents\Atmel Studio\7.0\ChristmasLights\main.asm</FILE><LINE>102</LINE></L1>
+ </LABELS>
+</ASSEMBLER_INFO>
